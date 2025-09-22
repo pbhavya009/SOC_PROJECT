@@ -1,0 +1,4 @@
+8.8.8 | Abuse Score: null | Country: null
+1.1.1.1 | Abuse Score: 0 | Country: AU
+185.220.101.1 | Abuse Score: 100 | Country: DE
+45.33.32.156 | Abuse Score: 0 | Country: US
